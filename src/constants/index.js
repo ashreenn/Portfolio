@@ -226,7 +226,7 @@ const projects = [
 			},
 		],
 		image:
-			"https://images.unsplash.com/photo-1553406830-ef2513450d76?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"https://plus.unsplash.com/premium_photo-1663075817635-90ecf218ee5f?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z3VufGVufDB8fDB8fHww",
 		source_code_link: "https://github.com/ashreenn/Harmful_Object_Detection",
 		link2: false,
 	},
