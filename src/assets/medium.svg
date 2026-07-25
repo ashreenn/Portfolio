@@ -1,0 +1,13 @@
+<svg width="100%" viewBox="0 0 346 246" role="img" xmlns="http://www.w3.org/2000/svg" style="">
+<title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Medium logo card with line-art M icon</title>
+<desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">A dark card with a blue-to-red gradient border containing a stroke-based geometric letter M icon, matching the line-art style of the LinkedIn, GitHub, Kaggle, and LeetCode icon cards.</desc>
+<defs>
+<linearGradient id="borderGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#3b9eff"/>
+<stop offset="100%" stop-color="#ff5a5a"/>
+</linearGradient>
+</defs>
+<rect x="4" y="4" width="332" height="232" rx="18" fill="#151329" stroke="url(#borderGrad3)" stroke-width="2" style="fill:rgb(21, 19, 41);color:rgb(11, 11, 11);stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<path d="M 138 130 L 138 70 L 170 105 L 202 70 L 202 130" fill="none" stroke="#3b9eff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" style="fill:none;stroke:rgb(59, 158, 255);color:rgb(11, 11, 11);stroke-width:9px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="170" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial, sans-serif;font-size:22px;font-weight:700;text-anchor:middle;dominant-baseline:auto">Medium</text>
+</svg>
