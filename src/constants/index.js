@@ -32,6 +32,7 @@ import {
 	amul,
 	whatsapp,
 	zeptoLogo,
+	certificate,
 } from "../assets";
 
 export const navLinks = [
@@ -63,6 +64,10 @@ const services = [
 		link: "https://www.linkedin.com/in/ashreen-k",
 	},
 	{
+    title: "Medium",
+    link: "https://medium.com/@kashreen13",
+},
+	{
 		title: "GitHub",
 		link: "https://github.com/ashreenn",
 	},
@@ -74,14 +79,7 @@ const services = [
 		title: "LEETCODE",
 		link: "https://leetcode.com/bqD9txqnKh/",
 	},
-	{
-		title: "Gmail",
-		link: "kashreen13@gmail.com",
-	},
-	{
-    title: "Medium",
-    link: "https://medium.com/@kashreen13",
-},
+	
 ];
 
 const experiences = [
@@ -111,17 +109,30 @@ const experiences = [
 // 		],
 // 	},
 {
- 		title: "Founder's Office Intern",
+ 		title: "Founder's Office Intern(AI/ML & Automation)",
  		company_name: "Friday AI",
  		icon: fridayai,
  		iconBg: "#E6DEDD",
- 		date: "May 2026 - July 2026",
+ 		date: "July 2026",
  		points: [
 			"Built an AI-powered pipeline to scrape and analyze seller, pricing, and transaction/market data from global ecommerce platforms, automating competitor benchmarking to identify growth opportunities for Indian MSMEs.",
  			"Synthesized MSME customer and seller feedback with market research on trends, policies, and compliance to inform product iteration and go-to-market decisions.",
  			"Worked directly with the Founders, gaining hands-on exposure to how early-stage product and growth decisions are made.",
  		],
 	},
+	{
+    title: "Internship Completion Certificate",
+    company_name: "Friday AI",
+    icon: fridayai,
+	certificateLink: certificate,
+    iconBg: "#E6DEDD",
+    date: "May 2026",
+    points: [
+        "Certified as an AI/ML & Automation Intern for successfully completing assignments in AI, Machine Learning, Generative AI, and business process automation.",
+        "Recognized for strong aptitude in exploring LLMs, prompt engineering, workflow optimization, and AI-powered automation.",
+        "Commended for analytical thinking, adaptability, and professionalism throughout the internship tenure.",
+    ],
+},
 ];
 
 const academics = [

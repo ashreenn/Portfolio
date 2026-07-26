@@ -41,6 +41,7 @@ import googleMaps from "./caseStudies/google.png";
 import amul from "./caseStudies/amul.png";
 import whatsapp from "./caseStudies/wa.png";
 import zeptoLogo from "./caseStudies/zepto.png";
+import certificate from "./company/certificate.png";
 
 export {
 	logo,
@@ -81,4 +82,5 @@ export {
 	amul,
 	whatsapp,
 	zeptoLogo,
+	certificate,
 };

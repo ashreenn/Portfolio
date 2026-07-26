@@ -39,17 +39,27 @@ const ExperienceCard = ({ experience }) => {
 					{experience.company_name}
 				</p>
 			</div>
-			<ul className="mt-5 list-disc ml-5 space-y-2">
-				{experience.points.map((point, index) => (
-					<li
-						key={"experience-point-" + index}
-						className="text-white-100 text-[14px] pl-1 tracking-wider"
-					>
-						{point}
-					</li>
-				))}
-			</ul>
-		</VerticalTimelineElement>
+		<ul className="mt-5 list-disc ml-5 space-y-2">
+	{experience.points.map((point, index) => (
+		<li
+			key={"experience-point-" + index}
+			className="text-white-100 text-[14px] pl-1 tracking-wider"
+		>
+			{point}
+		</li>
+	))}
+</ul>
+{experience.certificateLink && (
+	<a
+		href={experience.certificateLink}
+		target="_blank"
+		rel="noreferrer"
+		className="mt-4 inline-block text-blue-400 text-[14px] hover:underline"
+	>
+		View Certificate →
+	</a>
+)}
+</VerticalTimelineElement>
 	);
 };
 
