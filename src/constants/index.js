@@ -40,6 +40,10 @@ export const navLinks = [
 		title: "About",
 	},
 	{
+		id: "Work",
+		title: "Work Experience",
+	},
+	{
 		id: "case-studies",
 		title: "Product Case Studies",
 	},
@@ -115,7 +119,7 @@ const experiences = [
  		points: [
 			"Built an AI-powered pipeline to scrape and analyze seller, pricing, and transaction/market data from global ecommerce platforms, automating competitor benchmarking to identify growth opportunities for Indian MSMEs.",
  			"Synthesized MSME customer and seller feedback with market research on trends, policies, and compliance to inform product iteration and go-to-market decisions.",
- 			"Worked directly in the Founder's Office, gaining hands-on exposure to how early-stage product and growth decisions are made.",
+ 			"Worked directly with the Founders, gaining hands-on exposure to how early-stage product and growth decisions are made.",
  		],
 	},
 ];

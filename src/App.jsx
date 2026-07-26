@@ -17,21 +17,21 @@ const App = () => {
 	return (
 		<BrowserRouter>
 			<div className="relative z-0 bg-black">
-				<div>
-					<Navbar />
-					<Hero />
-				</div>
-				<About />
-				<Experience />
-				<CaseStudies />
-				<Works />	
-				{/* <Tech /> */}
-				{/* <Feedbacks /> */}
-				<div children="relative z-0">
-					<Contact />
-					<StarsCanvas />
-				</div>
-			</div>
+  <div>
+    <Navbar />
+    <Hero />
+  </div>
+  <About />
+  <Experience />
+  <CaseStudies />
+  <Works />	
+  {/* <Tech /> */}
+  {/* <Feedbacks /> */}
+  <div className="relative z-0">
+    <Contact />
+    <StarsCanvas />
+  </div>
+</div>
 		</BrowserRouter>
 	);
 };

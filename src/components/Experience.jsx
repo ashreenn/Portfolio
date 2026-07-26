@@ -56,7 +56,7 @@ const ExperienceCard = ({ experience }) => {
 const Experience = () => {
 	return (
 		<>
-			{/* <motion.div variants={textVariant()}>
+			 <motion.div variants={textVariant()}>
 				<h2 className={styles.sectionHeadText}>
 					Experience <span className="text-quat">.</span>
 				</h2>
@@ -68,7 +68,7 @@ const Experience = () => {
 						))}
 					</VerticalTimeline>
 				</div>
-			</motion.div> */}
+			</motion.div> 
 			<motion.div variants={textVariant()}>
 				<h2 className={styles.sectionHeadText}>
 					Academics <span className="text-quat">.</span>
