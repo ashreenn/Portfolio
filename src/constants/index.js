@@ -33,6 +33,7 @@ import {
 	whatsapp,
 	zeptoLogo,
 	certificate,
+	urbanCompany,
 } from "../assets";
 
 export const navLinks = [
@@ -333,6 +334,12 @@ const caseStudies = [
     link: "https://medium.com/@kashreen13/why-zepto-shows-the-same-product-twice-1c54da85b4b5?sharedUserId=kashreen13",
 	image: zeptoLogo,
   },
+  {
+    title: "Urban Company: Reigniting New Customer Growth",
+    description: "A product growth case study on reversing declining new customer acquisition for Urban Company.",
+    link: "https://medium.com/@kashreen13/urban-company-reigniting-new-customer-growth-3f2278d2a3cf?sharedUserId=kashreen13",
+    image: urbanCompany,
+},
 ];
 
 export {

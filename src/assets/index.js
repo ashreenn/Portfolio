@@ -42,6 +42,7 @@ import amul from "./caseStudies/amul.png";
 import whatsapp from "./caseStudies/wa.png";
 import zeptoLogo from "./caseStudies/zepto.png";
 import certificate from "./company/certificate.png";
+import urbanCompany from "./caseStudies/urban_company.png";
 
 export {
 	logo,
@@ -83,4 +84,5 @@ export {
 	whatsapp,
 	zeptoLogo,
 	certificate,
+	urbanCompany,
 };
