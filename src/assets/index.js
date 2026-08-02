@@ -43,6 +43,7 @@ import whatsapp from "./caseStudies/wa.png";
 import zeptoLogo from "./caseStudies/zepto.png";
 import certificate from "./company/certificate.png";
 import urbanCompany from "./caseStudies/urban_company.png";
+import smarterTagging from "./caseStudies/MEDIUM.png";
 
 export {
 	logo,
@@ -85,4 +86,5 @@ export {
 	zeptoLogo,
 	certificate,
 	urbanCompany,
+	smarterTagging,
 };

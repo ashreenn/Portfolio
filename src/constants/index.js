@@ -340,6 +340,12 @@ const caseStudies = [
     link: "https://medium.com/@kashreen13/urban-company-reigniting-new-customer-growth-3f2278d2a3cf?sharedUserId=kashreen13",
     image: urbanCompany,
 },
+{
+    title: "Smarter Tagging, Wider Reach",
+    description: "A product case study on improving content tagging to expand discoverability and reach.",
+    link: "https://medium.com/@kashreen13/smarter-tagging-wider-reach-reimagining-mediums-topic-selection-9c1b87e9c960?sharedUserId=kashreen13",
+    image: smarterTagging,
+},
 ];
 
 export {
