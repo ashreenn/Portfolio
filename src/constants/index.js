@@ -34,6 +34,7 @@ import {
 	zeptoLogo,
 	certificate,
 	urbanCompany,
+	smarterTagging,
 } from "../assets";
 
 export const navLinks = [
