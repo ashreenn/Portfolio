@@ -44,6 +44,7 @@ import zeptoLogo from "./caseStudies/zepto.png";
 import certificate from "./company/certificate.png";
 import urbanCompany from "./caseStudies/urban_company.png";
 import smarterTagging from "./caseStudies/MEDIUM.png";
+import newStudy from "./caseStudies/parking.png";
 
 export {
 	logo,
@@ -87,4 +88,5 @@ export {
 	certificate,
 	urbanCompany,
 	smarterTagging,
+	newStudy,
 };

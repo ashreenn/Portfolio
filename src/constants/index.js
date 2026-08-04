@@ -35,6 +35,7 @@ import {
 	certificate,
 	urbanCompany,
 	smarterTagging,
+	newStudy,
 } from "../assets";
 
 export const navLinks = [
@@ -314,6 +315,12 @@ const caseStudies = [
     link: "https://medium.com/@kashreen13/whos-the-saviour-of-pink-the-pink-route-9f422d451866?sharedUserId=kashreen13",
 	image: googleMaps,
   },
+  {
+    title: "Redesigning Google Maps: Solving the Last-Mile Parking Problem",
+    description: "What if Google Maps didn't just navigate you to your destination, but also helped you find, save, and return to your parking spot? Here's my take",
+    link: "https://medium.com/@kashreen13/redesigning-google-maps-solving-the-last-mile-parking-problem-d37a3db00ca2?sharedUserId=kashreen13",
+    image: newStudy,
+},
   {
     title: "Should Amul Enter the U.S. Market? A Market-Entry Case Study",
     description:
