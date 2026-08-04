@@ -45,6 +45,7 @@ import certificate from "./company/certificate.png";
 import urbanCompany from "./caseStudies/urban_company.png";
 import smarterTagging from "./caseStudies/MEDIUM.png";
 import newStudy from "./caseStudies/parking.png";
+import newCaseStudy from "./caseStudies/zomato_uae_market_entry_cover_v3.png";
 
 export {
 	logo,
@@ -89,4 +90,5 @@ export {
 	urbanCompany,
 	smarterTagging,
 	newStudy,
+	newCaseStudy,
 };

@@ -36,6 +36,7 @@ import {
 	urbanCompany,
 	smarterTagging,
 	newStudy,
+	newCaseStudy,
 } from "../assets";
 
 export const navLinks = [
@@ -280,13 +281,12 @@ const projects = [
 
 ];
 const caseStudies = [
-  {
-    title: "From a Hospital Waiting Room to a Product Idea: How ClaimSwift Was Born",
-    description:
-      "A feature concept for Tata 1mg that turns India's broken health insurance claims process into a guided, digital-first experience — born from a personal ER night that ended in paperwork purgatory.",
-    link: "https://medium.com/@kashreen13/from-a-hospital-waiting-room-to-a-product-idea-how-claimswift-was-born-849ce6c157fb?sharedUserId=kashreen13",
-	 image: claimswift,
-  },
+{
+    title: "Market Entry Case Study: Zomato’s International Expansion",
+    description: "Built a market-entry strategy case study recommending UAE re-entry for Zomato",
+    link: "https://drive.google.com/file/d/1Li5nk-q1rwtwjNFc_AJjLCe34CleAvJC/view?usp=sharing",
+    image: newCaseStudy,
+},
   {
     title: "The Person Behind the Delivery: A Product Thinking Journey",
     description:
