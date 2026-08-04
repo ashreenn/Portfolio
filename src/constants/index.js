@@ -281,12 +281,20 @@ const projects = [
 
 ];
 const caseStudies = [
-{
-    title: "Market Entry Case Study: Zomato’s International Expansion",
-    description: "Built a market-entry strategy case study recommending UAE re-entry for Zomato",
-    link: "https://drive.google.com/file/d/1Li5nk-q1rwtwjNFc_AJjLCe34CleAvJC/view?usp=sharing",
-    image: newCaseStudy,
+	{
+    title: "Who’s the Saviour of pink, The pink route",
+    description:
+      "The Pink Route is a case study proposing a \"Safest Route\" mode for Google Maps — surfacing street lighting, crowd levels, nearby police stations, and emergency tools like SOS and trusted-contact tracking alongside the usual fastest/eco options. Built from a real solo-travel scare, the case study covers competitive gaps, RICE and MoSCoW prioritization, UI concepts, and success metrics anchored on a clear north star: Safest Route adoption.",
+    link: "https://medium.com/@kashreen13/whos-the-saviour-of-pink-the-pink-route-9f422d451866?sharedUserId=kashreen13",
+	image: googleMaps,
+  },
+  {
+    title: "Redesigning Google Maps: Solving the Last-Mile Parking Problem",
+    description: "What if Google Maps didn't just navigate you to your destination, but also helped you find, save, and return to your parking spot? Here's my take",
+    link: "https://medium.com/@kashreen13/redesigning-google-maps-solving-the-last-mile-parking-problem-d37a3db00ca2?sharedUserId=kashreen13",
+    image: newStudy,
 },
+
   {
     title: "The Person Behind the Delivery: A Product Thinking Journey",
     description:
@@ -308,19 +316,7 @@ const caseStudies = [
     link: "https://medium.com/@kashreen13/pinterest-product-case-study-improving-discovery-trust-user-experience-df4743aa7bf3?sharedUserId=kashreen13",
 	 image: pinterestLogo,
   },
-  {
-    title: "Who’s the Saviour of pink, The pink route",
-    description:
-      "The Pink Route is a case study proposing a \"Safest Route\" mode for Google Maps — surfacing street lighting, crowd levels, nearby police stations, and emergency tools like SOS and trusted-contact tracking alongside the usual fastest/eco options. Built from a real solo-travel scare, the case study covers competitive gaps, RICE and MoSCoW prioritization, UI concepts, and success metrics anchored on a clear north star: Safest Route adoption.",
-    link: "https://medium.com/@kashreen13/whos-the-saviour-of-pink-the-pink-route-9f422d451866?sharedUserId=kashreen13",
-	image: googleMaps,
-  },
-  {
-    title: "Redesigning Google Maps: Solving the Last-Mile Parking Problem",
-    description: "What if Google Maps didn't just navigate you to your destination, but also helped you find, save, and return to your parking spot? Here's my take",
-    link: "https://medium.com/@kashreen13/redesigning-google-maps-solving-the-last-mile-parking-problem-d37a3db00ca2?sharedUserId=kashreen13",
-    image: newStudy,
-},
+  
   {
     title: "Should Amul Enter the U.S. Market? A Market-Entry Case Study",
     description:
@@ -328,6 +324,18 @@ const caseStudies = [
     link: "https://medium.com/@kashreen13/should-amul-enter-the-u-s-market-a-market-entry-case-study-acfa32a10e22?sharedUserId=kashreen13",
 	 image: amul,
   },
+  {
+    title: "Market Entry Case Study: Zomato’s International Expansion",
+    description: "Built a market-entry strategy case study recommending UAE re-entry for Zomato",
+    link: "https://drive.google.com/file/d/1Li5nk-q1rwtwjNFc_AJjLCe34CleAvJC/view?usp=sharing",
+    image: newCaseStudy,
+},
+{
+    title: "Urban Company: Reigniting New Customer Growth",
+    description: "A product growth case study on reversing declining new customer acquisition for Urban Company.",
+    link: "https://medium.com/@kashreen13/urban-company-reigniting-new-customer-growth-3f2278d2a3cf?sharedUserId=kashreen13",
+    image: urbanCompany,
+},
   {
     title: "How WhatsApp and Instagram Help Businesses Talk to Thousands of People at Once",
     description:
@@ -342,12 +350,7 @@ const caseStudies = [
     link: "https://medium.com/@kashreen13/why-zepto-shows-the-same-product-twice-1c54da85b4b5?sharedUserId=kashreen13",
 	image: zeptoLogo,
   },
-  {
-    title: "Urban Company: Reigniting New Customer Growth",
-    description: "A product growth case study on reversing declining new customer acquisition for Urban Company.",
-    link: "https://medium.com/@kashreen13/urban-company-reigniting-new-customer-growth-3f2278d2a3cf?sharedUserId=kashreen13",
-    image: urbanCompany,
-},
+  
 {
     title: "Smarter Tagging, Wider Reach",
     description: "A product case study on improving content tagging to expand discoverability and reach.",
